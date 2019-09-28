@@ -1,0 +1,36 @@
+body{
+  border-inline-color: blue;
+}
+#header{
+  color: khaki;
+  font-family:  Helvetica,Arial, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image:url(./images/pattern.jpeg)
+}
+#stetce{
+font-family: helvetica;
+font-style: 32px;
+font-weight: bold;
+color:white;
+background-color: mediumspringgreen;
+
+}
+#ramecky{
+  font-family: helvetica;
+  font-style: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: lightcoral;
+}
+#barva{
+  font-family: helvetica;
+  font-style: 32px;
+  font-weight: bold;
+  color:white;
+  background-color:skyblue;
+}
+.modra{
+  color: blue;
+}
